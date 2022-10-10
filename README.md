@@ -47,8 +47,7 @@
 
 <h3 align="left">Frameworks, Platforms and Libraries</h3>
 
-<a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-https://threejs.org/"></img></a>
+<a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></img></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukedev820&show_icons=true&text_color=ffffff&bg_color=241f31&locale=en&layout=compact" alt="lukedev820" /></p>
 
