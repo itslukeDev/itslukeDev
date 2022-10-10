@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/img/hello-world.gif" height="60"></img>
+<img src="./assets/hello-world.gif" height="60"></img>
 </p>
 
 [![@lukedev820's Holopin board](https://holopin.io/api/user/board?user=lukedev820)](https://holopin.io/@lukedev820)
