@@ -6,7 +6,9 @@
 
 <h3 align="center">I'm lukedev820. I'm self teaching myself a variety of programing languages to persue to my love for tech. I also like to play PC games in my spare time as well as Dungeons & Dragons with my friends.</h3>
 
+<div>
 <h2>About me</h2>
+<img src="assets/sleepingonkeyboard.gif" align="right" width="300">
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
   <li><b>🌏 Country:</b> Australia</li>
@@ -16,9 +18,10 @@
   <a href="https://discordapp.com/users/333409270475522059"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
   <a href="https://luke-projects.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
 </ul>
+</div>
 <h2>What im up to</h2>
 <ul>
-  <li>🔭 I’m currently researching and jotting down project ideas and next steps.</li>
+  <li>🔭 I’m contributing to open source projects and redesigning my website with hugo</li>
   <li>🌱 Learning JavaScript in depth.</li>
   <li>🎮 Playing Ultrakill, Cult of the Lamb</li>
   <li>👯 I’m looking to collaborate on anything!</li>
