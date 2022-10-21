@@ -4,10 +4,9 @@
 
 [![@lukedev820's Holopin board](https://holopin.io/api/user/board?user=lukedev820)](https://holopin.io/@lukedev820)
 
-<h3 align="center">I'm lukedev820. I'm self teaching myself a variety of programing languages to persue to my love for tech. I also like to play PC games in my spare time as well as Dungeons & Dragons with my friends.</h3>
+<h1 align="center">lukedev820 / Luke Lipscombe</h1>
 
 <div>
-<h2>About me</h2>
 <img src="assets/sleepingonkeyboard.gif" align="right" width="300">
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
