@@ -19,6 +19,7 @@
   <a href="https://luke-projects.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
 </ul>
 </div>
+
 <h2>What im up to</h2>
 <ul>
   <li>🔭 I’m contributing to open source projects and redesigning my website with hugo</li>
