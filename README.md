@@ -8,7 +8,6 @@
 
 <div>
 <img src="assets/sleepingonkeyboard.gif" align="right" width="300">
-<br>
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
   <li><b>🌏 Country:</b> Australia</li>
