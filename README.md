@@ -8,14 +8,15 @@
 
 <div>
 <img src="assets/sleepingonkeyboard.gif" align="right" width="300">
+<br>
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
   <li><b>🌏 Country:</b> Australia</li>
   <li><b>😊 Hobbies:</b> Coding 🖥️, Gaming 🕹️, D&D Dice Collecting 🐉🎲</li>
-  <li><b>✉️ Email:</b> raidernight920@gmail.com</li>
   <br>
-  <a href="https://discordapp.com/users/333409270475522059"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+  <a href="mailto:raidernight920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
   <a href="https://luke-projects.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
+  <a href="https://discordapp.com/users/333409270475522059"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </ul>
 </div>
 <br>
