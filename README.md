@@ -1,13 +1,12 @@
-<p align="center">
-<img src="./assets/hello-world.gif" height="60"></img>
-</p>
-
 [![@lukedev820's Holopin board](https://holopin.io/api/user/board?user=lukedev820)](https://holopin.io/@lukedev820)
 
-<h1 align="center">lukedev820 / Luke Lipscombe</h1>
+
+<h1>
+<img src="./assets/hello-world.gif" height="60"></img>
+</h1>
 
 <div>
-<img src="assets/sleepingonkeyboard.gif" align="right" width="300">
+<img src="assets/sleepingonkeyboard.gif" align="right" height="200">
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
   <li><b>🌏 Country:</b> Australia</li>
@@ -19,6 +18,7 @@
   <br>
 </ul>
 </div>
+
 <br>
 <h2>What im up to</h2>
 <ul>
@@ -52,6 +52,4 @@
 <h3 align="left">Frameworks, Platforms and Libraries</h3>
 
 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></img></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukedev820&show_icons=true&text_color=ffffff&bg_color=241f31&locale=en&layout=compact" alt="lukedev820" /></p>
 
