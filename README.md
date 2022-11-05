@@ -47,5 +47,6 @@
 
 <h3 align="left">Frameworks, Platforms and Libraries</h3>
 
+<a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white"></img></a>
 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></img></a>
 
