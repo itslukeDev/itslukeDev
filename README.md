@@ -5,8 +5,6 @@
 <img src="./assets/hello-world.gif" height="60"></img>
 </h1>
 
-<div>
-<img src="assets/sleepingonkeyboard.gif" align="right" height="200">
 <ul>
   <li><b>👦 Name:</b> Luke Lipscombe</li> 
   <li><b>🌏 Country:</b> Australia</li>
@@ -17,9 +15,7 @@
   <a href="https://discordapp.com/users/333409270475522059"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
   <br>
 </ul>
-</div>
 
-<br>
 <h2>What im up to</h2>
 <ul>
   <li>🔭 I’m contributing to open source projects and redesigning my website with hugo</li>
