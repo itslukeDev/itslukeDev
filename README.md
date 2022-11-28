@@ -11,7 +11,7 @@
   <li><b>😊 Hobbies:</b> Coding 🖥️, Gaming 🕹️, D&D Dice Collecting 🐉🎲</li>
   <br>
   <a href="mailto:raidernight920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-  <a href="https://luke-projects.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
+  <a href="https://lukedev820.github.io/Personal-Website/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
   <a href="https://discordapp.com/users/333409270475522059"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
   <br>
 </ul>
