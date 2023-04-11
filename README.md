@@ -3,6 +3,8 @@
 
 # LukeDev820 😎
 
+<img align="right" src="assets/sleepingonkeyboard.gif" width="320">
+
 - 👨‍💻 Intern software developer
 - 📚 Completely self taught
 - 🦘  Australia
