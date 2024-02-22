@@ -4,7 +4,7 @@
 
 ### Abit about me 🔎
 - 🦘 Intern engineering intern based in Australia.
-- 🌱 Currently taking the [Three.JS Journey Course](https://threejs-journey.com/) course. 
+- 🌱 Currently taking the [Three.JS Journey](https://threejs-journey.com/) course. 
 - 🐧 Linux FTW!
 - 🍌 Massive Tally Hall fan.
 
