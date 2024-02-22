@@ -3,7 +3,8 @@
 <img align="right" src="assets/sleepingonkeyboard.gif" height="180" class="img-offset-up">
 
 ### Abit about me 🔎
-- 🌱 I'm always eager to learn new things and take on new challanges
-- 🦘 Based in Australia
+- 🦘 Intern engineering intern based in Australia.
+- 🌱 Currently taking the (Three.JS Journey Course)[https://threejs-journey.com/] course. 
 - 🐧 Linux FTW!
+- 🍌 Massive Tally Hall fan.
 
