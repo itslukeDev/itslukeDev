@@ -1,9 +1,9 @@
-```
+```shell
 ~ λ whoami
 lukeDev
 ~ λ whatami
 student, software engineer 
-~ λ howami?
+~ λ howami
 Im good thanks :) 
 ~ λ █
 ```
