@@ -2,8 +2,8 @@
 ~ λ whoami
 lukeDev
 ~ λ whatami
-TAFE student 📚, Intern software engineer 💻
+Junior Software Engineer (primarily work in front-end)
 ~ λ howami
-I'm good thanks :) 
+I'm alright thanks :) 
 ~ λ █
 ```
