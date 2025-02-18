@@ -1,9 +1,9 @@
 ```
 ~ λ whoami
-lukeDev
+lukeDev (Luke)
 ~ λ whatami
-Junior software engineer (primarily work in front-end)
+A Junior software engineer, massive nerd and Linux enthusiast.
 ~ λ howami
-I'm alright thanks :) 
+I'm alright thanks 🙂
 ~ λ █
 ```
